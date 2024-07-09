@@ -52,7 +52,7 @@ Each dataset includes seven oil and load features of electricity transformers sp
 
 #### Household Electric Power Consumption
 
-[The Household Electric Power Consumption dataset (Household)](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set) records the electricity consumption of households over a period of 4 years at a granularity of 1 minute. To simplify computations, this study performed sampling on the original dataset, adjusting the time granularity to ten minutes, to obtain the electricity consumption data. 
+[The Household Electric Power Consumption dataset (Household)](https://doi.org/10.24432/C58K54) records the electricity consumption of households over a period of 4 years at a granularity of 1 minute. To simplify computations, this study performed sampling on the original dataset, adjusting the time granularity to ten minutes, to obtain the electricity consumption data. 
 
 #### Solar Energy
 
